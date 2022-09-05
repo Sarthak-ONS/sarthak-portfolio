@@ -381,3 +381,11 @@ a.link {
         margin-left: 25%;
     }
 }
+
+.btn.btn-primary[disabled] {
+    color: green;
+}
+
+
+/* Scratch */
+
