@@ -361,3 +361,23 @@ a.link {
         left: -31.8px;
     }
 }
+
+
+/* Custom Form Code */
+
+
+
+
+@media screen and (max-width: 600px) {
+    .custom-form {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .custom-form {
+        width: 50%;
+        justify-content: center;
+        margin-left: 25%;
+    }
+}
